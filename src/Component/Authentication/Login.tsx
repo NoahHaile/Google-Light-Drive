@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: 'rgba(0, 0, 0, 0.6)', // Dimmed background
+    backgroundColor: 'rgba(0, 0, 0, 1)', // Dimmed background
   },
   modalView: {
     margin: 20,
@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+    backgroundColor: 'rgba(192, 192, 192, 0.9)',
     
   },
   title: {
